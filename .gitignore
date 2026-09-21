@@ -32,3 +32,8 @@ Thumbs.db
 # Personal notes (not for the public repo)
 快速开始_不要提交.md
 快速开始_*.md
+
+# Local helper scripts (not part of the project)
+_PUSH.bat
+_*.ps1
+_*.bat
