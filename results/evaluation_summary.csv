@@ -1,0 +1,7 @@
+﻿event_date,event,n_anomalies_nearby,detected,methods
+2008-09-30,全球金融危机 (雷曼兄弟破产),6,True,"stl, zscore"
+2008-11-30,中国四万亿刺激计划公布,7,True,"iforest, stl, zscore"
+2015-06-30,A股股灾,6,True,"stl, zscore"
+2020-02-29,新冠疫情冲击,6,True,"stl, zscore"
+2020-04-30,疫情后货币大幅宽松,6,True,"stl, zscore"
+2022-04-30,上海封控 / 供应链冲击,1,True,"iforest, stl, zscore"
